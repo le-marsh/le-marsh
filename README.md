@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @le-marsh
 - 👀 I’m interested in economics, data science, raspberry pis, and interactive code driven artworks.
-- 🌱 I’m currently learning Effective Pandas
 - 💞️ I’m looking to collaborate on nothing just yet
 - 📫 How to reach me: contact here.
 
